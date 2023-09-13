@@ -1,6 +1,5 @@
 ---
 title: "RMarkdown like a boss!"
-output: html_document
 date: "2023-09-13"
 output:
   html_document:
